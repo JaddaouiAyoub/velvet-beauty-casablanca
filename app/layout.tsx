@@ -22,7 +22,6 @@ export const metadata: Metadata = {
   title: 'Beauté Élégance | Salon de Beauté au Maroc',
   description: 'Salon de coiffure et soins du visage pour femmes au Maroc. Révélez votre beauté naturelle avec nos services professionnels.',
   keywords: ['salon de beauté', 'coiffure', 'soins du visage', 'Maroc', 'Casablanca', 'beauté femme'],
-  generator: 'v0.app',
   icons: {
     icon: [
       {
