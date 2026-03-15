@@ -23,21 +23,8 @@ export const metadata: Metadata = {
   description: 'Salon de coiffure et soins du visage pour femmes au Maroc. Révélez votre beauté naturelle avec nos services professionnels.',
   keywords: ['salon de beauté', 'coiffure', 'soins du visage', 'Maroc', 'Casablanca', 'beauté femme'],
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/placeholder-logo.png',
+    apple: '/placeholder-logo.png',
   },
 }
 
