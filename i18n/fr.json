@@ -1,0 +1,159 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "hairdressing": "Coiffure",
+    "facial_care": "Soins du visage",
+    "gallery": "Galerie",
+    "team": "Notre équipe",
+    "testimonials": "Témoignages",
+    "contact": "Contact",
+    "booking": "Prendre rendez-vous"
+  },
+  "hero": {
+    "title": "Révélez votre beauté naturelle",
+    "subtitle": "Votre destination beauté au coeur de Casablanca. Nous sublimerons votre beauté avec des soins personnalisés et une expertise incomparable.",
+    "cta_booking": "Prendre rendez-vous",
+    "cta_services": "Découvrir nos services",
+    "stats": {
+      "clients": "+2500 clientes satisfaites",
+      "experience": "10 ans d'expérience",
+      "products": "100% produits premium"
+    }
+  },
+  "services": {
+    "title": "Nos Services Premium",
+    "subtitle": "Des soins d'exception réalisés par nos expertes pour révéler votre beauté unique. Chaque prestation est personnalisée selon vos besoins.",
+    "hairdressing": {
+      "title": "Coiffure",
+      "items": {
+        "cut": "Coupe & Styling",
+        "brushing": "Brushing Professionnel",
+        "coloring": "Coloration Premium",
+        "balayage": "Balayage & Mèches",
+        "bridal": "Coiffure Mariée"
+      }
+    },
+    "facial": {
+      "title": "Soins du Visage",
+      "items": {
+        "cleansing": "Nettoyage Profond",
+        "hydration": "Soin Hydratation Intense",
+        "anti_aging": "Soin Anti-Âge Premium",
+        "mask": "Masque Purifiant",
+        "glow": "Soin Éclat & Luminosité"
+      }
+    }
+  },
+  "why_us": {
+    "title": "Pourquoi Nous Choisir ?",
+    "subtitle": "Depuis 10 ans, nous mettons notre expertise et notre passion au service de votre beauté. Découvrez ce qui fait notre différence.",
+    "items": {
+      "products": "Produits Haut de Gamme",
+      "hygiene": "Hygiène Irréprochable",
+      "team": "Équipe Certifiée",
+      "equipment": "Équipements Dernière Génération",
+      "ambiance": "Ambiance Zen & Luxueuse"
+    }
+  },
+  "gallery": {
+    "title": "Notre Portfolio",
+    "subtitle": "Explorez nos plus belles réalisations et laissez-vous inspirer par le talent de nos stylistes."
+  },
+  "team": {
+    "title": "Notre Équipe",
+    "subtitle": "Des expertes passionnées à votre service",
+    "members": {
+      "member1": {
+        "name": "Khadija Benali",
+        "role": "Directrice & Coiffeuse Senior"
+      },
+      "member2": {
+        "name": "Fatima Zahra El Amrani",
+        "role": "Esthéticienne Spécialisée"
+      },
+      "member3": {
+        "name": "Salma Idrissi",
+        "role": "Coloriste Experte"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Témoignages",
+    "subtitle": "Ce que disent nos clientes",
+    "reviews": {
+      "review1": {
+        "name": "Fatima",
+        "location": "Casablanca",
+        "text": "Un service exceptionnel ! L'équipe est très professionnelle et à l'écoute. Je recommande vivement ce salon."
+      },
+      "review2": {
+        "name": "Salma",
+        "location": "Rabat",
+        "text": "Je suis cliente depuis 3 ans et je n'ai jamais été déçue. Les soins du visage sont divins !"
+      },
+      "review3": {
+        "name": "Imane",
+        "location": "Marrakech",
+        "text": "Ma coiffure de mariage était parfaite ! Merci pour ce moment magique."
+      }
+    }
+  },
+  "before_after": {
+    "title": "Avant / Après",
+    "subtitle": "Des transformations spectaculaires",
+    "before": "Avant",
+    "after": "Après"
+  },
+  "booking": {
+    "title": "Réservation",
+    "subtitle": "Prenez rendez-vous en ligne",
+    "form": {
+      "name": "Nom complet",
+      "phone": "Téléphone",
+      "email": "Email",
+      "service": "Service",
+      "date": "Date souhaitée",
+      "message": "Message",
+      "submit": "Envoyer la demande",
+      "select_service": "Sélectionnez un service"
+    },
+    "services_list": {
+      "cut": "Coupe femme",
+      "brushing": "Brushing",
+      "coloring": "Coloration",
+      "balayage": "Balayage",
+      "bridal": "Coiffure mariage",
+      "cleansing": "Nettoyage de peau",
+      "hydration": "Soin hydratation",
+      "anti_aging": "Soin anti-âge"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Nous sommes à votre écoute",
+    "address": {
+      "label": "Adresse",
+      "value": "Boulevard Zerktouni, Casablanca, Maroc"
+    },
+    "phone": {
+      "label": "Téléphone",
+      "value": "+212 6 12 34 56 78"
+    },
+    "email": {
+      "label": "Email",
+      "value": "contact@beautysalon.ma"
+    },
+    "hours": {
+      "label": "Horaires",
+      "value": "Lundi - Samedi : 10:00 - 20:00"
+    }
+  },
+  "footer": {
+    "description": "Votre destination beauté au coeur de Casablanca",
+    "quick_links": "Liens rapides",
+    "services": "Services",
+    "follow_us": "Suivez-nous",
+    "rights": "Tous droits réservés"
+  }
+}
